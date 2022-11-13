@@ -12,7 +12,7 @@ for ( const element of names) {
     }
 }
     return unique;
-}
+} 
 
 const uniqueNames = removeDuplicate(names);
 console.log(uniqueNames);
