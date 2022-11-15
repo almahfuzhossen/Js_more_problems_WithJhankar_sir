@@ -15,3 +15,8 @@ var eggQuantity = 33;
   var totalEgg = eggPrice * eggQuantity;
   console.log(totalEgg);
 //   -----------------------------------
+
+var moneyAvailable = 200;
+var orangePrice = 10;
+  var totalOrange = 200 / 10;
+  console.log(totalOrange);
