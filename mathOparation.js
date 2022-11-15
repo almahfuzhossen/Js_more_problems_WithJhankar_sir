@@ -8,3 +8,10 @@ var eggPrice = 43;
  var iceCreamPrice = 566;
   var priceDifference =  phonePrice - iceCreamPrice;
   console.log(priceDifference);
+//   -------------------------------
+
+var eggPrice =20;
+var eggQuantity = 33;
+  var totalEgg = eggPrice * eggQuantity;
+  console.log(totalEgg);
+//   -----------------------------------
