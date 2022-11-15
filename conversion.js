@@ -20,4 +20,12 @@ var maltaPrice = '43.44';
 var aluPriceNumber = parseInt(aluPrice);
 var maltaPriceNumber = parseInt(maltaPrice);
 // console.log(aluPriceNumber + maltaPriceNumber);
-// --------------------------------------
+// -------------------------------------
+
+var aluPrice = '33.99';
+var maltaPrice = '33.87';
+var aluPriceNumber = parseFloat(aluPrice);
+var maltaPriceNumber = parseFloat(maltaPrice);
+console.log( aluPriceNumber + maltaPriceNumber);
+
+// ----------------------------------------
