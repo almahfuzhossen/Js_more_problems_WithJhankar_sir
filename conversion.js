@@ -15,4 +15,9 @@ var eggPrice = '23.40';
 // console.log(onionPriceNumber);
 // -------------------------
 
-
+var aluPrice = '55.88';
+var maltaPrice = '43.44';
+var aluPriceNumber = parseInt(aluPrice);
+var maltaPriceNumber = parseInt(maltaPrice);
+// console.log(aluPriceNumber + maltaPriceNumber);
+// --------------------------------------
