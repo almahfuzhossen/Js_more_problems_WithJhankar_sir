@@ -1,6 +1,6 @@
-var isGraduated = true;
-var salary = 75000;
-var car = 1;
+// var isGraduated = true;
+// var salary = 75000;
+// var car = 1;
 //--------------------------------
 // if( isGraduated == true){
 //     console.log('eso biye kori');
@@ -23,3 +23,15 @@ var car = 1;
 //     console.log('tor Kopale Biya nai')
 // }
 //------------------------------------------
+
+var  isGraduated = false;
+var salary = 61000;
+var cars = 0;
+
+// if(isGraduated == true || salary <= 55000 && cars <= 1){
+//     console.log('eso biye kori');
+// }
+// else{
+//     console.log('tomar bandhubir number daw');
+// }
+// -----------------------------------
