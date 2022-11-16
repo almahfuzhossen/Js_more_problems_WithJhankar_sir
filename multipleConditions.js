@@ -16,3 +16,10 @@ var car = 1;
 //     console.log('tor kopale biya nai');
 // }
 //----------------------------------------
+// if (isGraduated == true && salary > 50000 && car >= 1){
+//     console.log('esho baby biye kori')
+// }
+// else {
+//     console.log('tor Kopale Biya nai')
+// }
+//------------------------------------------
