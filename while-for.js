@@ -48,3 +48,11 @@
 //     console.log('even number is', i);
 // }
 // --------------------------------
+//  array with for loop..
+
+// var numbers =[23, 45, 22, 434, 56, 55, 78, 98, 76];
+// for( var i = 0; i < numbers.length; i++){
+//     var elements = numbers[i];
+//     console.log(elements);
+// }
+// -------------------------------------
