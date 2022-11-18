@@ -22,3 +22,22 @@
 // var result = addTwoNumbers(firstNumber, secondNumber);
 // console.log('value of two numbers', result);
 // ----------------------------------------
+
+// function multiplicationTwoNumbers(num1, num2){
+//     var multiply = num1 * num2;
+//     return multiply;
+// }
+
+// var result = multiplicationTwoNumbers( 23, 56);
+// console.log('here are two numbers multiply', result);
+// -------------------------------------------
+
+function dividedTwoNumbers(num1 , num2){
+    var divided = num1 / num2;
+    return divided;
+}
+
+var firstNumber = 100;
+var secondNumber = 10;
+var result = dividedTwoNumbers( firstNumber, secondNumber);
+console.log('here is divided result', result);
