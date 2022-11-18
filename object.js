@@ -51,3 +51,18 @@ var myComputer = {
 // student['id']= 23;
 // console.log(student.id);
 // --------------------
+var storageProperty = 'storage';
+myComputer[storageProperty]= '600gb';
+console.log(myComputer);
+// --
+var branName = 'brand';
+myComputer[branName] = 'samsung';
+console.log(myComputer);
+// --
+var priceChange = 'price';
+mobile[priceChange] = 23000;
+console.log(mobile);
+// --
+var studentId = 'id';
+student[studentId] = 34;
+console.log(student);
