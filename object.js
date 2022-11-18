@@ -35,3 +35,19 @@ var myComputer = {
 // var studentProperty = student.name;
 // console.log(studentProperty);
 // ----
+
+//-------set a object property value----------
+
+//  myComputer.price = 45000;
+//  console.log(myComputer);
+
+//  ------------------
+// myComputer['price']= 90000;
+// console.log(myComputer);
+// --
+// mobile['price']= 23456;
+// console.log(mobile);
+// --
+// student['id']= 23;
+// console.log(student.id);
+// --------------------
