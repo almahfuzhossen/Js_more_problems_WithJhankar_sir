@@ -28,4 +28,24 @@ console.log('my number is', numberCheck);
 var mySecondNum = 230;
 var numberCheck = isOdd(mySecondNum);
 console.log('My second number is', numberCheck);
-    
+// ----
+// -------leap year------
+
+function LeapYear(year){
+    if (year % 4 == 0){
+        return true;
+       
+    }
+    else{
+        return false;
+    }
+}
+
+var myYear= 2028;
+var isYearLeap = LeapYear(myYear);
+console.log('is this year leap', isYearLeap)
+// -----
+var anikaYear = 33455;
+var isYearLeap = LeapYear(anikaYear);
+console.log('is this year leap', isYearLeap)
+// -----
