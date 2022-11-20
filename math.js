@@ -23,3 +23,22 @@ const prettyNumber = 23;
 const output = Math.random(prettyNumber) * 10;
 const rounded = Math.floor(output);
 console.log(rounded)
+
+// --- swap ---
+//  var first = 4;
+//  var second = 6;
+//  var temp = first;
+//  first = second;
+//  second = temp;
+//  console.log (first, second);
+
+//  -------destructing------
+var first = 88;
+var second = 45;
+[first,second]=[second,first];
+console.log(first, second);
+// --------------------------
+
+
+
+  
