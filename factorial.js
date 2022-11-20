@@ -26,3 +26,16 @@ var mySecondNum = 5;
 var Result = GetFactorial(mySecondNum);
 console.log('our best factorial result is ', Result)
 // ------------
+
+function MyFactorial(number){
+    let factorial = 1;
+    let i = 1;
+    while ( i <= number){
+        factorial = factorial * i;
+        return factorial;
+    }
+    
+}
+
+var result = MyFactorial(8);
+console.log('here is my fact ', result)
