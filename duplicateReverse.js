@@ -60,5 +60,22 @@
 // let firstOption = woodCalculator(2, 5, 6);
 // console.log(firstOption);
 
+// --------Fo Bar Foobar ------
+
+// for ( var i = 0; i <= 50; i++){
+//     if ( i % 3 == 0 && i % 5 == 0){
+//         console.log('foobar')
+//     }
+//     else if ( i % 3 == 0){
+//         console.log('foo')
+//     }
+//     else if ( i % 5 == 0){
+//         console.log('bar')
+//     }
+//     else {
+//         console.log(i)
+//     }
+
+// }
 
 
