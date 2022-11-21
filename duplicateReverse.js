@@ -36,14 +36,29 @@
 // var multiplyNumber = multiply(23 * 22);
 // console.log(multiplyNumber);
 // -----
- function AddNumber (num1 , num2){
-     const result = num1 + num2;
-     return result;
- }
+//  function AddNumber (num1 , num2){
+//      const result = num1 + num2;
+//      return result;
+//  }
 
- let addNumberCall = AddNumber( 23+23 , 234);
- console.log(addNumberCall);
+//  let addNumberCall = AddNumber( 23+23 , 234);
+//  console.log(addNumberCall);
 
 //  --------
+
+// function woodCalculator(chairQuantity, tableQuantity, bedQuantity){
+//     const perChairWood = 3;
+//     const perTableWood = 10;
+//     const perBedWood = 50;
+//     const chairWoodQuantity = perChairWood * chairQuantity;
+//     const tableWoodQuantity = perTableWood * tableQuantity;
+//     const bedWoodQuantity = perBedWood * bedQuantity;
+//     const totalWood = chairWoodQuantity + tableWoodQuantity + bedWoodQuantity;
+//     return totalWood;
+// }
+
+// let firstOption = woodCalculator(2, 5, 6);
+// console.log(firstOption);
+
 
 
