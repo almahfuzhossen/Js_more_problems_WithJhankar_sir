@@ -15,16 +15,35 @@
 
 // ------- reverse -------------
 
-const greetings = 'Hello, how are you?';
+// const greetings = 'Hello, how are you?';
 
-function reverseString(text){
-     let reverse = '';
-    for (const letter of text){
-        // console.log(letter);
-        reverse = letter + reverse;
-    }
-    return reverse;
-}
+// function reverseString(text){
+//      let reverse = '';
+//     for (const letter of text){
+//         // console.log(letter);
+//         reverse = letter + reverse;
+//     }
+//     return reverse;
+// }
 
-const reversed = reverseString(greetings);
-console.log(reversed);
+// ---- input parameter error -----
+
+// function multiply (num1, num2){
+//     const result = num1 * num2;
+//     return result;
+// }
+
+// var multiplyNumber = multiply(23 * 22);
+// console.log(multiplyNumber);
+// -----
+ function AddNumber (num1 , num2){
+     const result = num1 + num2;
+     return result;
+ }
+
+ let addNumberCall = AddNumber( 23+23 , 234);
+ console.log(addNumberCall);
+
+//  --------
+
+
